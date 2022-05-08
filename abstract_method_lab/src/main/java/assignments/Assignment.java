@@ -2,7 +2,7 @@ package assignments;
 
 public abstract class Assignment {
 
-    //defining assignment -needs title, description,
+  
 
     protected String title;
     protected String tutor;
